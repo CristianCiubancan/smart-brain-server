@@ -9,7 +9,7 @@ Features:
 * Register
 * Login
 * Logout
-** scan images for faces and rank up
+* scan images for faces and rank up
 
 This website features cookie authentication for security.
 
